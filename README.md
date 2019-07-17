@@ -1,7 +1,7 @@
 # Perl5-Debugger-Multiline-Paste
 Added Multi Line Paste feature to the PERL 5 debugger.
 This adds support for multi line pasting of code into the interactive CLI debugger.
-
+Install into /usr/lib/perl5/<YOUR_LIB_DIRECTORY>
 Example:
 
 $ perl -de1
