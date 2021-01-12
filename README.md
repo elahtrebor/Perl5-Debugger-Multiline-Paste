@@ -6,7 +6,7 @@ Start the debugger.
 To enter the multiline mode type   "PASTEMODE"
  Enter your multiline code..
 To stop multiline mode type "ENDPASTE"
-
+<pre>
 Example:
 
 $ perl -de1
